@@ -1,0 +1,31 @@
+{
+  "author": "Gábor Molnár <gabor.molnar@sch.bme.hu>",
+  "name": "generate",
+  "description": "A simple and easy to use random generator library.",
+  "keywords": [
+    "random",
+    "random generator",
+    "random generation",
+    "object generator",
+    "object generation",
+    "testing"
+  ],
+  "version": "0.6.1",
+  "homepage": "https://github.com/molnarg/generate.js",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:molnarg/generate.js.git"
+  },
+  "dependencies": {
+    "js-schema" : "0.6.1",
+    "randexp" : "*"
+  },
+  "devDependencies": {
+    "browserify": "*",
+    "uglify-js": "*"
+  },
+  "engines": {
+    "node": "*"
+  },
+  "main": "./index.js"
+}
