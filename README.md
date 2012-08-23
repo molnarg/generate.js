@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/molnarg/generate.js.png)](http://travis-ci.org/molnarg/generate.js)
 generate.js
 ===========
 
